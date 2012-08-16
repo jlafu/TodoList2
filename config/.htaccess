@@ -2,5 +2,6 @@
 #Non-staged changes in branch1
 #Staged changes in branch1
 #Non-staged changes in branch1
+#REVISION 1
 Order Allow,Deny
 Deny from all
