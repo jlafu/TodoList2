@@ -1,6 +1,7 @@
 #Non-staged changes in MASTER
 #Staged changes in branch1
 #Non-staged changes in branch1
-#REVISION 1
+#REVISION 1 CHANGED IN BRANCH 2
+#BRANCH 2
 Order Allow,Deny
 Deny from all
