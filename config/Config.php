@@ -40,7 +40,15 @@
  *
  * Portions Copyrighted 2011 Sun Microsystems, Inc.
  * Non-staged changes in MASTER
- * Non-staged changes in MASTER again
+ * Non-staged changes in branch1
+ * Staged changes in branch1
+ * Non-staged changes in branch1
+ * Staged changes in branch1 (SMARTGIT)
+ * Non-staged changes in branch1 (SMARTGIT)
+ * ----------------
+ * Staged changes in branch1 (SMARTGIT)
+ * Staged changes in branch1 (SMARTGIT)
+ * COMMIT 1
  */
 
 /**

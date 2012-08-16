@@ -1,4 +1,5 @@
 #Non-staged changes in MASTER
-#Non-staged changes in MASTER again
+#Staged changes in branch1
+#Non-staged changes in branch1
 Order Allow,Deny
 Deny from all
