@@ -43,6 +43,8 @@
  * Non-staged changes in branch1
  * Staged changes in branch1
  * Non-staged changes in branch1
+ * Staged changes in branch1 (SMARTGIT)
+ * Non-staged changes in branch1 (SMARTGIT)
  */
 
 /**
